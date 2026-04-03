@@ -1,0 +1,61 @@
+order_id,customer_id,product,amount,status,order_date
+O001,C001,Laptop,1200.00,completed,2023-03-10
+O002,C001,Mouse,25.50,completed,2023-04-15
+O003,C002,Keyboard,75.00,done,20/05/2023
+O004,C003,Monitor,350.00,completed,2023-06-22
+O005,C004,Laptop,1200.00,pending,07-01-2023
+O006,C005,Headphones,89.99,complete,2023-08-05
+O007,C005,USB Hub,35.00,completed,2023-09-12
+O008,C006,Webcam,65.00,cancelled,2023-10-18
+O009,C007,Laptop,,completed,2023-11-25
+O010,C008,Mouse,25.50,completed,15/12/2023
+O011,C009,Keyboard,,completed,2024-01-08
+O012,C010,Monitor,350.00,canceled,2024-02-14
+O013,C010,Headphones,89.99,completed,2024-03-20
+O014,C011,USB Hub,35.00,completed,04-15-2024
+O015,C012,Webcam,65.00,pending,2024-05-01
+O016,C013,Laptop,1200.00,completed,2024-06-10
+O017,C013,Mouse,,completed,2024-07-18
+O018,C014,Keyboard,75.00,completed,25/08/2024
+O019,C015,Monitor,350.00,refunded,2024-09-30
+O020,C016,Headphones,89.99,completed,2024-10-12
+O021,C017,USB Hub,35.00,done,2024-11-05
+O022,C018,Webcam,65.00,completed,2024-12-20
+O023,C019,Laptop,1200.00,completed,2025-01-15
+O024,C020,Mouse,25.50,pending,02-10-2025
+O025,C021,Keyboard,75.00,completed,2025-03-05
+O026,C022,Monitor,,completed,15/04/2025
+O027,C023,Headphones,89.99,complete,2025-05-20
+O028,C024,USB Hub,35.00,completed,2025-06-01
+O029,C025,Webcam,65.00,canceled,2025-07-14
+O030,C025,Laptop,1200.00,completed,2025-08-22
+O031,C026,Mouse,25.50,completed,09-01-2025
+O032,C027,Keyboard,75.00,pending,2025-10-10
+O033,C028,Monitor,350.00,completed,2025-11-15
+O034,C029,Headphones,,completed,20/12/2025
+O035,C030,USB Hub,35.00,completed,2026-01-05
+O036,C001,Laptop,1200.00,completed,2026-01-20
+O037,C003,Mouse,25.50,completed,2026-02-01
+O038,C005,Keyboard,75.00,done,2026-02-15
+O039,C008,Monitor,350.00,completed,2026-03-01
+O040,C010,Headphones,89.99,completed,2026-03-10
+O041,C013,USB Hub,35.00,completed,15/03/2026
+O042,C015,Webcam,65.00,completed,2026-03-20
+O043,C018,Laptop,1200.00,pending,2026-03-25
+O044,C020,Mouse,25.50,completed,03-28-2026
+O045,C023,Keyboard,75.00,completed,2026-03-30
+O046,C025,Monitor,350.00,completed,2026-03-31
+O047,C028,Headphones,89.99,refunded,2026-03-31
+O048,C030,USB Hub,35.00,completed,2026-04-01
+O049,C031,Laptop,1200.00,completed,2026-01-10
+O050,C032,Mouse,25.50,completed,2026-01-20
+O051,C033,Keyboard,75.00,completed,2026-02-05
+O052,C034,Monitor,350.00,canceled,2026-02-20
+O053,C035,Headphones,89.99,completed,2026-03-01
+O054,C036,USB Hub,35.00,pending,2026-03-15
+O055,C037,Webcam,65.00,completed,2026-03-20
+O056,C038,Laptop,1200.00,completed,2026-03-25
+O057,C039,Mouse,25.50,completed,2026-03-28
+O058,C040,Keyboard,75.00,done,2026-03-30
+,,,,,
+,C099,,,,

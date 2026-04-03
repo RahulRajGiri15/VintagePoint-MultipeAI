@@ -1,0 +1,43 @@
+customer_id,name,email,signup_date,region
+C001,Alice Johnson,alice.johnson@email.com,2023-01-15,North
+C002,Bob Smith,BOB.SMITH@EMAIL.COM,2023-02-20,South
+C003,Charlie Brown,charlie.brown@email.com,15/03/2023,East
+C004, Diana Prince ,diana.prince@email.com,2023-04-10,West
+C005,Ethan Hunt,ethan.hunt@email.com,2023-05-22,North
+C006,Fiona Green,fiona.greenemail.com,2023-06-18,South
+C007,George Clark,,2023-07-01,
+C008,Hannah Lee,hannah.lee@email.com,2023-08-14,East
+C009,Ivan Petrov,ivan.petrov@email.com,2023-09-30,West
+C010,Julia Adams,julia.adams@email.com,2023-10-05,North
+C011, Kevin Wright ,kevin.wright@email.com,2023-11-12,South
+C012,Laura Martinez,laura.martinez@email.com,2023-12-01,East
+C013,Mike Chen,mike.chen@email.com,2024-01-20,West
+C014,Nina Patel,nina.patel@email.com,2024-02-14,
+C015,Oscar Davis,oscar.davis@email.com,2024-03-08,North
+C016,Paula Wilson,paula.wilson@email.com,2024-04-19,South
+C017,Quinn Foster,quinn.foster@email.com,2024-05-25,East
+C018,Rachel Kim,rachel.kim@email.com,2024-06-30,West
+C019,Steve Rogers,steve.rogers@email.com,2024-07-04,North
+C020,Tina Brown,tina.brown@email.com,2024-08-15,South
+C021,Uma Thurman,uma.thurman@email.com,2024-09-01,East
+C022,Victor Hugo,victor.hugo@email.com,2024-10-10,West
+C023,Wendy Darling,wendy.darling@email.com,2024-11-20,North
+C024,Xander Cage,xander.cage@email.com,2024-12-05,South
+C025,Yara Silva,yara.silva@email.com,2025-01-15,East
+C026,Zane Grey,zane.grey@email,2025-02-28,West
+C027,Amy Taylor,amy.taylor@email.com,invalid_date,North
+C028,Brian Moore,brian.moore@email.com,2025-04-01,South
+C029,Chloe Yang,chloe.yang@email.com,2025-05-10,East
+C030,David Kim,david.kim@email.com,2025-06-15,West
+C002,Bob Smith,BOB.SMITH@EMAIL.COM,2023-08-20,South
+C007,George Clark,george.clark@email.com,2023-07-01,North
+C031,Ella Stone,ella.stone@email.com,2025-07-20,North
+C032,Frank Ocean,frank.ocean@email.com,2025-08-05,
+C033,Grace Hopper,grace.hopper@email.com,2025-09-12,East
+C034,Henry Ford,henry.ford@email.com,2025-10-01,West
+C035,Iris Chang,iris.chang@email.com,2025-11-18,South
+C036,Jake Long,jake.long@email.com,2025-12-25,North
+C037,Kara Zor,kara.zor@email.com,01-15-2026,East
+C038,Leo Messi,leo.messi@email.com,2026-02-10,South
+C039,Maya Lin,maya.lin@email.com,2026-03-01,West
+C040,Noah Park, ,2026-03-15,North
