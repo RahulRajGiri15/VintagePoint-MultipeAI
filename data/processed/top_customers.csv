@@ -1,0 +1,11 @@
+customer_id,name,region,total_spend,order_count,average_order_value,customer_lifetime_value,churned
+C001,Alice Johnson,North,2425.5,3,808.5,2425.5,False
+C025,Yara Silva,East,1550.0,2,775.0,1550.0,False
+C013,Mike Chen,West,1260.5,3,420.17,1260.5,False
+C031,Ella Stone,North,1200.0,1,1200.0,1200.0,False
+C019,Steve Rogers,North,1200.0,1,1200.0,1200.0,True
+C007,George Clark,Unknown,1200.0,1,1200.0,1200.0,True
+C038,Leo Messi,South,1200.0,1,1200.0,1200.0,False
+C003,Charlie Brown,East,375.5,2,187.75,375.5,False
+C008,Hannah Lee,East,375.5,2,187.75,375.5,False
+C022,Victor Hugo,West,350.0,1,350.0,350.0,True

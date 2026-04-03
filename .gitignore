@@ -15,8 +15,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Auto-Generated Data
-data/processed/*
-!data/processed/.gitkeep
+# (Allowed so Render has data to serve!)
 
 # IDEs and OS
 .vscode/
