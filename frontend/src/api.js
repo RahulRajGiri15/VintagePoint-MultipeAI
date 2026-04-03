@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:8000/api',
+  baseURL: 'https://vintage-backend-tk3c.onrender.com/api',
   timeout: 10000,
 });
 
